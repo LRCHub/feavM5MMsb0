@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Drinking Dance",
+  "base_artist": "星野 源",
+  "createdAt": "2026-02-18T20:41:30.111401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drinking Dance",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/01_Drinking_Dance_星野源.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drinking Dance",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/02_Drinking_Dance_星野源.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drinking Dance",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/03_Drinking_Dance_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drinking Dance",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Drinking_Dance_星野源.txt"
+    }
+  ]
+}
